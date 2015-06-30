@@ -16,7 +16,7 @@
     ],
 
     "dependencies": {
-        "node-xmpp": "^1.0.0",
+        "node-xmpp": "git+https://github.com/qbit/node-xmpp.git",
         "qbox": "0.1.x"
     },
 
